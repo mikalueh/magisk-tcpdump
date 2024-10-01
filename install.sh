@@ -124,7 +124,7 @@ REPLACE="
 print_modname() {
   ui_print " "
   ui_print "    ********************************************"
-  ui_print "    *          Magisk-/KernelSU-tcpdump        *"
+  ui_print "    *          Magisk-tcpdump by mikalueh      *"
   ui_print "    ********************************************"
   ui_print " "
 }
