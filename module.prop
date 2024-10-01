@@ -1,0 +1,6 @@
+id=magisk-tcpdump
+name=Magisk-tcpdump
+version=1.0
+versionCode=1
+author=mikalueh
+description=Get tcpdump Android for Magisk
